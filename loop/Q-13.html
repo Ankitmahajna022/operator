@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //Look at this series: 53, 53, 40, 40, 27, 27, ...
+        let num = 10;
+        let x= 53;
+
+        document.write('Series:');
+
+        for (let i = 0; i < num; i++) 
+        {
+            document.write(x+"  ");
+            if (i % 2 !== 0) 
+            {
+                x -= 13;
+            }
+        }
+
+
+    </script>
+</body>
+</html>
