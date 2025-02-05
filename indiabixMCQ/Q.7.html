@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //Look at this series: 14, 28, 20, 40, 32, 64, ...
+
+        let star=14
+
+        document.write(star+"  ")
+
+        for(let i=1;i<=10;i++)
+        {
+            if(i%2==1)
+            {
+                star*2
+                document.write(star+"  ")
+            }
+            else
+            {
+                
+                star+=6
+                document.write(star+"  ")
+
+            }
+        }
+    </script>
+</body>
+</html>
