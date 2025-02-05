@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //Look at this series: 22, 21, 23, 22, 24, 23, ...
+
+            let num = 10;
+            let c= 22;
+
+            document.write('Series:');
+
+            for (let i = 0; i < num; i++) 
+            {
+                document.write(c+"  ");
+                c+= (i % 2 === 0) ? -1 : 2;
+            }
+
+    </script>
+</body>
+</html>
