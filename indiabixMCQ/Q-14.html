@@ -11,12 +11,11 @@
 
         let start=8
         document.write(start+"  ")
-        
          for(i=1;i<=10;i++)
          {
-            let start=7
-            n=start*i-i
-            start=n
+           
+            start*=i;
+           start-=i+1
 
             document.write(start+"  ")
          }
