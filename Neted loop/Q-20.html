@@ -8,18 +8,18 @@
 <body>
     <script>
 
-        let i,j;
-        for(j=1;j<=5;j++)
+          let i,j;
+        for(j=5;j>=1;j--)
         {
-            for(i=1;i<=j;i++)
+            for(i=j;i<=5;i++)
             {
-                if(i%3==1)
+                if(i%2==1)
                 {
-                    document.write("-  ")
+                    document.write("-   ")
                 }
                 else
                 {
-                    document.write("|  ")   
+                    document.write("|   ")   
                 }
             }
             document.write("<br>")
