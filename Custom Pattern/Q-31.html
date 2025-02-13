@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        for(x=1; x<=7; x++)
+    {
+        for(y=1; y<=7; y++)
+        {
+            if(x==1 || x==7 )
+            {
+                document.write("*");
+            }
+            else if((x==2 && y==6) || (x==3 && y==5) || (x==4 && y==4) || (x==5 && y==3) || (x==6 && y==2))
+            {
+                document.write("*");
+            }
+             else
+            {
+                document.write("&nbsp"+"&nbsp");
+            }
+        }
+        document.write("<br>");
+    }
+
+    </script>
+</body>
+</html>
