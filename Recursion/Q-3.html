@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //print a n to 1
+        function printNTo1(n) 
+        {
+            if (n > 0) {
+                document.write(n +"  ");
+                printNTo1(n - 1); 
+            }
+        }
+
+        let n=parseInt(prompt("Enter you num"))
+        printNTo1(5);
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //print a 1 to n
+        function print1ToN(n) 
+        {
+            if (n > 0) 
+            {
+                print1ToN(n - 1); 
+                document.write(n+"  "); 
+            }
+        }
+
+        let n=parseInt(prompt("Enter you num"))
+        print1ToN(n); 
+
+    </script>
+</body>
+</html>
