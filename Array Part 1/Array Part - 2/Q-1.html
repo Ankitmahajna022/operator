@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        // check number is palindrom or not.
+
+        
+        let Name_is =  prompt("Enter any palindron name to check : ")
+        let reverse_name = "" ;
+
+        for(let i=Name_is.length-1; i>=0; i--)
+        {
+            reverse_name += Name_is[i]
+        }
+
+        if(reverse_name==Name_is)
+        {
+            document.write(Name_is + " is a palindron name !");
+
+        }
+        else
+        {
+            document.write(Name_is + " is not a palindron name !"); 
+        }
+    </script>
+</body>
+</html>

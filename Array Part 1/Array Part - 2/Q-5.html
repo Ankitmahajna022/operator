@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // wap to arrange acending in 1d array.
+        let digits = [45, 47 ,51 ,30 ,20 ,50 ,5 ,4 ,8,]
+
+            for(let i=0; i<=digits.length; i++)
+            {
+                for(let j=i+1; j<=digits.length; j++)
+                {
+                    if(digits[i] > digits[j])
+                    {
+                        let temp = digits[i]
+                        digits[i] = digits[j]
+                        digits[j] = temp 
+                    }
+                }
+            }
+
+            document.write("Ascending order :-   " + "  " + digits)
+    </script>
+</body>
+</html>

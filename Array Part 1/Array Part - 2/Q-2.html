@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // count frequency of all character/element in string/array.
+         let Name_is = prompt("Enter any Name to check Frequency : ")
+         let count;
+
+
+            for(let i=0; i<Name_is.length; i++)
+            {
+                count = 0;
+
+                for(j=0; j<=Name_is.length; j++)
+                {
+                    if(Name_is[i] == Name_is[j])
+                    {
+                        count++;
+                    }
+                }
+                document.write(Name_is[i] + " - " + count + "<br>");
+            }
+    </script>
+</body>
+</html>

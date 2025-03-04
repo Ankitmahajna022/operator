@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        // wap to arrange  decending in 1d array.
+        let digits = [57, 58 ,25 ,45 ,40 ,54 ,8 ,10 ,3,]
+
+            for(let i=0; i<=digits.length; i++)
+            {
+                for(let j=0; j<=digits.length; j++)
+                {
+                    if(digits[i] > digits[j])
+                    {
+                        let temp = digits[i]
+                        digits[i] = digits[j]
+                        digits[j] = temp 
+                    }
+                }
+            }
+
+document.write("Descening order of the array is :-   " + "  " + digits)
+    </script>
+</body>
+</html>
