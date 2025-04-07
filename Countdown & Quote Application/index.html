@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Countdown & Quotes App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <div class="countdown-section">
+      <h2>Countdown Timer</h2>
+      <div class="input-group">
+        <input type="number" id="countdown-input" min="1" placeholder="Enter a number">
+        <button id="start-btn">Start Countdown</button>
+        <button id="reset-btn">Reset</button>
+      </div>
+      <div id="countdown-display">0</div>
+    </div>
+
+  
+    <div class="quotes-section">
+      <h2>Inspirational Quotes</h2>
+      <div class="quote-container">
+        <div class="quote-text" id="quote-text">Loading quotes...</div>
+        <div class="quote-author" id="quote-author"></div>
+      </div>
+      <div class="quote-controls">
+        <button id="prev-quote">Previous</button>
+        <button id="next-quote">Next</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
