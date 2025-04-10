@@ -1,0 +1,45 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container
+{
+    width: 450px;
+    height: 450px;
+    background-color:slategray;
+    border-radius: 35px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+}
+.btn
+{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 200px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+.btn2
+{
+    position: relative;
+    top: 65%;
+    left: 5%;
+    transform: translate(-50%,-50%);
+    width: 200px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
