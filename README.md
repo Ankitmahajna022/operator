@@ -11,5 +11,12 @@
 <h1>CALC AND COUNTER</h1>
 <video src="https://github.com/user-attachments/assets/83cc7fb8-cd14-494b-87bd-0f11f30aef3e"></video>
 
+<h1>Quiz</h1>
+<video src="https://github.com/user-attachments/assets/4cb56052-8dc9-4498-ab0f-fe24958dd615"></video>
+
+
+
+
+
 
 
