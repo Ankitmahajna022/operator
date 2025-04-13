@@ -1,0 +1,49 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color:rgb(232, 225, 165);
+}
+.btn
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 290px;
+}
+.btn-I
+{
+    height: 50px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+#toastBox
+{
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  align-items: flex-end;
+  overflow: hidden;
+  padding: 20px;
+  
+}
+.toast
+{
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  padding: 20px;
+  margin: 5px;
+  font-size: 22px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
