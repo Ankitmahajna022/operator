@@ -11,6 +11,8 @@
 <h1>CALC AND COUNTER</h1>
 <video src="https://github.com/user-attachments/assets/83cc7fb8-cd14-494b-87bd-0f11f30aef3e"></video>
 
+<br><br>
+
 # 🧠 Quiz App
 
 A simple and interactive Quiz App built with [Your Tech Stack – e.g., HTML, CSS, JavaScript]. Users can test their knowledge by answering multiple-choice questions and get instant results.
@@ -34,12 +36,7 @@ A simple and interactive Quiz App built with [Your Tech Stack – e.g., HTML, CS
 - JavaScript (Vanilla)  
 *(or React, Vue, etc. if used)*
 
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/quiz-app.git
-
+<br><br>
 # 🔔 Notification App
 
 A sleek and customizable Notification App that displays toast-style alerts on screen. Built using [Your Tech Stack – e.g., HTML, CSS, JavaScript].
@@ -56,6 +53,7 @@ A sleek and customizable Notification App that displays toast-style alerts on sc
 
 <video src="https://github.com/user-attachments/assets/b8b9078a-bbd2-4d8c-861c-3c68d9413975"></video>
 
+<br><br>
 ## 🧰 Tech Stack
 
 - HTML5  
