@@ -21,7 +21,7 @@ A dual-function web app that combines a countdown timer with inspirational quote
 - JavaScript (Vanilla)  
 - *(Optional: Quotes API or local quote array)*
 ## 📸 Preview
-<video src="https://github.com/user-attachments/assets/cb1d5166-963b-43a9-872a-05be345a58c4"></video>
+<video src="https://github.com/user-attachments/assets/ad08f2be-597e-4ceb-8d2b-c5c34940b77b"></video>
 
 <br><br>
 
@@ -155,6 +155,10 @@ A clean and simple Music Player App that allows users to play, pause, and skip s
 
 ## 📸 Preview
 <video src="https://github.com/user-attachments/assets/bac6c420-3f09-4d67-8557-5ba7006f6524"></video>
+
+
+
+
 
 
 
