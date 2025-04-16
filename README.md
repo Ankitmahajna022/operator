@@ -75,6 +75,33 @@ A simple and clean stopwatch app built using HTML, CSS, and JavaScript.
 ## 📸 Preview
 <video src="https://github.com/user-attachments/assets/4f7f04ad-1131-46c5-9560-d4351e5b2203"></video>
 
+<br><br>
+# 🎶 Music App
+
+A clean and simple Music Player App that allows users to play, pause, and skip songs. Built using HTML, CSS, and JavaScript.
+
+## ✨ Features
+
+- Play/Pause music
+- Next/Previous track
+- Song progress bar
+- Animated UI
+- Responsive design
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
+
+## 📸 Preview
+<video src="https://github.com/user-attachments/assets/bac6c420-3f09-4d67-8557-5ba7006f6524"></video>
+
+
+
+
+
+
 
 
 
