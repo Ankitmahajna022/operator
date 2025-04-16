@@ -52,8 +52,6 @@ A sleek and customizable Notification App that displays toast-style alerts on sc
 ## 📸 Screenshot
 
 <video src="https://github.com/user-attachments/assets/b8b9078a-bbd2-4d8c-861c-3c68d9413975"></video>
-
-<br><br>
 ## 🧰 Tech Stack
 
 - HTML5  
@@ -61,12 +59,7 @@ A sleek and customizable Notification App that displays toast-style alerts on sc
 - JavaScript (Vanilla)  
 *(or React / any framework if used)*
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/notification-app.git
-
+<br><br>
 # ⏱️ Stopwatch App
 
 A simple and clean stopwatch app built using HTML, CSS, and JavaScript.
