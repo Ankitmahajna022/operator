@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Music Player</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="music-player">
+      <nav>
+        <div class="circle"><i class="bi bi-chevron-compact-left"></i></div>
+        <div class="circle"><i class="bi bi-list"></i></div>
+      </nav>
+
+      <img src="image/singer-women_599862-15610.avif" class="song" alt="song image" />
+      <h1>Love Me Like You Do</h1>
+      <p>Ellie Goulding</p>
+
+      <audio id="audio" src="song/mixkit-hazy-after-hours-132.mp3"></audio>
+      <audio id="audio" src="song/mixkit-pop-05-695.mp3"></audio>
+
+
+      <div class="controls">
+        <i class="bi bi-skip-backward-fill"></i>
+        <i class="bi bi-play-circle-fill" id="playPauseBtn"></i>
+        <i class="bi bi-skip-forward-fill"></i>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
