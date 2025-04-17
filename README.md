@@ -155,8 +155,28 @@ A clean and simple Music Player App that allows users to play, pause, and skip s
 
 ## 📸 Preview
 <video src="https://github.com/user-attachments/assets/bac6c420-3f09-4d67-8557-5ba7006f6524"></video>
+<br><br>
 
+# 💬 Random Quote Generator
 
+A simple and elegant web app that displays a new random quote every time you click a button. Built using HTML, CSS, and JavaScript.
+
+## ✨ Features
+
+- 🎲 Displays random motivational/inspirational quotes
+- 🔄 "New Quote" button for instant refresh
+- 📋 Copy-to-clipboard option *(optional)*
+- 🎨 Clean and responsive UI
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- *(Optional: Fetch from external Quote API)*
+
+## 📸 Preview
+<video src="https://github.com/user-attachments/assets/794cc792-61f1-408e-89ef-006139365a2b"></video>
 
 
 
