@@ -177,16 +177,29 @@ A simple and elegant web app that displays a new random quote every time you cli
 
 ## 📸 Preview
 <video src="https://github.com/user-attachments/assets/794cc792-61f1-408e-89ef-006139365a2b"></video>
+<br><br>
 
+# 🌤️ Weather App
 
+A sleek and simple Weather App that fetches real-time weather data for any city using a weather API. Built using HTML, CSS, and JavaScript.
 
+## ✨ Features
 
+- 🔍 Search weather by city name
+- 🌡️ Displays temperature, condition, humidity, and wind speed
+- 🖼️ Dynamic weather icons based on condition
+- 🌍 Supports worldwide cities
+- 📱 Fully responsive design
 
+## 🛠️ Tech Stack
 
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- [OpenWeatherMap API](https://openweathermap.org/api)
 
-
-
-
+## 📸 Preview
+<video src="https://github.com/user-attachments/assets/c158905f-843b-41cb-84ce-63b452499f9a"></video>
 
 
 
