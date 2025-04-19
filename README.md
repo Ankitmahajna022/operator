@@ -200,6 +200,29 @@ A sleek and simple Weather App that fetches real-time weather data for any city 
 
 ## 📸 Preview
 <video src="https://github.com/user-attachments/assets/c158905f-843b-41cb-84ce-63b452499f9a"></video>
+<br><br>
+
+# 🖼️ Image Search Engine App
+
+A sleek and fast Image Search App that uses the Unsplash API (or any image API) to fetch and display high-quality photos based on user queries. Built with HTML, CSS, and JavaScript.
+
+## ✨ Features
+
+- 🔍 Search for any image by keyword
+- 🖼️ Displays results in a responsive grid
+- 📦 Uses API to fetch high-resolution images
+- ⬇️ Option to view full image or download
+- 📱 Fully responsive layout
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+
+## 📸 Preview
+<video src="https://github.com/user-attachments/assets/adebd641-ba9c-4c21-a11d-a42619f24dae"></video>
+
 
 
 
