@@ -223,6 +223,28 @@ A sleek and fast Image Search App that uses the Unsplash API (or any image API) 
 ## 📸 Preview
 <video src="https://github.com/user-attachments/assets/adebd641-ba9c-4c21-a11d-a42619f24dae"></video>
 
+<br><br>
+# JavaScript-Final-Practical-Exam
+
+# 🦠 COVID-19 India State-wise Tracker
+
+Data source:(https://api.rootnet.in/covid19-in/stats/latest)
+
+| State         | Cases   | Recovered | Deaths |
+|---------------|---------|-----------|--------|
+| Maharashtra   | 6.4M    | 6.2M      | 135K   |
+| Kerala        | 3.8M    | 3.7M      | 19K    |
+| Tamil Nadu    | 2.6M    | 2.5M      | 34K    |
+| ...           | ...     | ...       | ...    |
+
+## 📸 Preview
+<video src="https://github.com/user-attachments/assets/6b376990-eaec-4c29-8df0-3546e739e621"></video>
+
+
+
+
+
+
 
 
 
