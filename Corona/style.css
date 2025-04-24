@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body
+{
+    background:url('image/Corona_COLOURBOX43667167.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1
+{
+    text-align: center;
+    margin: 50px 0 30px 0;
+    font-size: 35px;
+    color: #fff;
+}
+table
+{
+    margin: 50px auto;
+    width: 80%;
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.10);
+}
+table tr td
+{
+    border: 1px solid black;
+    height: 30px;
+    text-align: center;
+    background: linear-gradient(45deg, #0b6ba2, #4d74a7);
+    color: #fff;
+}
