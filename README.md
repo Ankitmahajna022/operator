@@ -239,7 +239,29 @@ Data source:(https://api.rootnet.in/covid19-in/stats/latest)
 
 ## 📸 Preview
 <video src="https://github.com/user-attachments/assets/6b376990-eaec-4c29-8df0-3546e739e621"></video>
+<br><br>
 
+# 🛒 Add to Cart App
+
+A clean and functional shopping cart interface built using HTML, CSS, and JavaScript. Users can browse products, add them to the cart, and view total price and item count.
+
+## ✨ Features
+
+- 🧺 Add/remove items from the cart
+- 🔢 Auto-update item quantity and total price
+- 💰 Dynamic cart total calculation
+- 🖼️ Product images and descriptions
+- 📱 Fully responsive for all screen sizes
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+
+## 📸 Preview
+<video src="https://github.com/user-attachments/assets/a797d55e-1ea7-462b-bd93-314882457feb"></video>
+<
 
 
 
